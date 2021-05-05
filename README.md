@@ -9,3 +9,4 @@
 - [#5 - Acid Rain](https://cssbattle.dev/play/5)
 - [#6 - Missing Slice](https://cssbattle.dev/play/6)
 - [#7 - Leafy Trail](https://cssbattle.dev/play/7)
+- [#8 - Forking Crazy](https://cssbattle.dev/play/8)
