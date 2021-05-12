@@ -12,3 +12,4 @@
 - [#8 - Forking Crazy](https://cssbattle.dev/play/8)
 - [#10 - Cloaked Spirits](https://cssbattle.dev/play/10)
 - [#11 - Eye of Sauron](https://cssbattle.dev/play/11)
+- [#12 - Wiggly Moustache](https://cssbattle.dev/play/12)
