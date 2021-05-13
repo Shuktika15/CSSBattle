@@ -20,3 +20,4 @@
 - [#13 - Totally Triangle](https://cssbattle.dev/play/13)
 - [#14 - Web Maker Logo](https://cssbattle.dev/play/14)
 - [#15 - Overlap](https://cssbattle.dev/play/15)
+- [#16 - The Eye of the Tiger](https://cssbattle.dev/play/16)
