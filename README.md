@@ -32,6 +32,8 @@
 
 ### Battle #13 - Clip
 
+- [#72 - Sheep](https://cssbattle.dev/play/62)
+
 ### Battle #14 - ZIndex
 
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
